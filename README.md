@@ -2,7 +2,7 @@ Flávio Zantut Nogueira
 ======
 
 #### Programador back-end especialista em PHP. 
-###### [ [github.com/flaviozantut](https://github.com/flaviozantut) ] . [ flaviozantut@gmail.com ] . [ 11 971781638 ]
+###### [ [linkedin](https://www.linkedin.com/in/desenvolvedorweb/) ] . [ flaviozantut@gmail.com ] . [ 11 971781638 ]
 
 
 Education
@@ -20,11 +20,11 @@ Experience
 ---------
 **Linx, analista desenvolvedor back-end** (2016-present, São Paulo SP)
 
-- Desenvolvimento e manutenção de funcionalidades para plataforma de e-commerce criada com magento 2
-- Documentação de API
-- Desenvolvilento de funcionalidades para api de gerenciamento de pedidos
-- Criação de ferramenta para gestão de configurações
-- Líder técnico de uma time de desenvolvedores
+- Desenvolvimento e manutenção de funcionalidades para plataforma de e-commerce criada com magento 2.
+- Documentação de API.
+- Desenvolvilento de funcionalidades para api de gerenciamento de pedidos.
+- Criação de ferramenta para gestão de configurações.
+- Líder técnico de uma time de desenvolvedores.
 
 
 **NewsMonitor, Full-stack Developer** (2013 -2015, São Paulo SP)
