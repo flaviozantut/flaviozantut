@@ -22,7 +22,7 @@ Experience
 
 - Desenvolvimento e manutenção de funcionalidades para plataforma de e-commerce criada com magento 2.
 - Documentação de API.
-- Desenvolvilento de funcionalidades para api de gerenciamento de pedidos.
+- Desenvolvilento de funcionalidades para micro serviço de gerenciamento de pedidos.
 - Criação de ferramenta para gestão de configurações.
 - Líder técnico de uma time de desenvolvedores.
 
