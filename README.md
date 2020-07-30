@@ -34,7 +34,7 @@ online (billing, resful api)
 
 
 
-**EZOOM Agência Digital, Programador PHP** (2013 -2015, Caxias do sul RS)
+**EZOOM Agência Digital, Programador PHP** (2010 -2012, Caxias do sul RS)
 
 - Desenvolvimento de projetos para clientes de pequeno, médio e grande
 porte.
