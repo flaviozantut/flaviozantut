@@ -26,7 +26,7 @@ Experience
 - Desenvolvilento de funcionalidades para microserviço de gerenciamento de pedidos.
 - Criação de ferramenta para gestão de configurações.
 - Modernização de software legado em microserviços
-- Líder técnico de uma time de desenvolvedores.
+- Líder técnico de um time de desenvolvedores.
 - Otimização de infraestrutura.
 - Criação de pipelines de integração contínua.
 - Sustentação de produto.
