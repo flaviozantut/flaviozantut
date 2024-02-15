@@ -1,7 +1,7 @@
 Flávio Zantut Nogueira
 ======
 
-#### Programador back-end especialista em PHP. 
+#### Programador back-end especialista - tech lead. 
 ###### [ [linkedin](https://www.linkedin.com/in/flaviozantut) ] . [ flaviozantut@gmail.com ] . [ 11 971781638 ]
 
 
